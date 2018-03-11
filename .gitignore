@@ -1,0 +1,7 @@
+*.pcy
+*~
+__pycache__
+sumi
+db.sqlite3
+/static
+.DS_Store
